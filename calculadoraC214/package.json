@@ -1,0 +1,14 @@
+{
+  "name": "calculadorac214",
+  "version": "1.0.0",
+  "description": "Uma calculadora simples em JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validate.js": "^0.13.1"
+  }
+}
