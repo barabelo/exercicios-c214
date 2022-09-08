@@ -61,6 +61,3 @@ Dê uma ⭐️ se este projeto te ajudou!
 
 Copyright © 2022 [Bruno Almeida Rabelo](https://github.com/barabelo).<br />
 Este projeto é licenciado com a [MIT Licence](https://github.com/barabelo/exercicios-c214/blob/main/LICENSE).
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
